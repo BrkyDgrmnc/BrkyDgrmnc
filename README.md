@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello, I'm Berkay. I have been involved in the electronics industry for more than ten years. Throughout my career, I have worked on various projects such as battery packs, electric vehicles, and air conditioning systems. Additionally, I have participated in international competitions as team captain in the unmanned aerial vehicles team.
+
+For PCB design, I use PCB programs such as Altium, Proteus, and Eagle. I have been involved in various embedded software projects using Stm32 and Arduino.
+
+Working on innovative projects and pushing technological boundaries is a great passion for me. I am excited to continually improve myself and to encounter new challenges in the field of electronics and 3D design.
 
 <!--
 **BrkyDgrmnc/BrkyDgrmnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
